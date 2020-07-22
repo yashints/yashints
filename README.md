@@ -15,11 +15,11 @@ He is a fan of web technologies, having more than a decade of experience develop
 </a>
 
 ### Top languages
-<img width="48" src="./assets/javascript.svg" alt="JavaScript"/>
-<img width="48" src="./assets/typescript.svg" alt="TypeScript"/>
-<img width="48" src="./assets/html.svg" alt="HTML"/>
-<img width="48" src="./assets/css3.svg" alt="CSS"/>
-<img width="48" src="./assets/tjfs.svg" alt="Tensorflow.js"/>
+<img width="48" src="./assets/javascript.svg" alt="JavaScript" style="display: inline"/>
+<img width="48" src="./assets/typescript.svg" alt="TypeScript" style="display: inline"/>
+<img width="48" src="./assets/html.svg" alt="HTML" style="display: inline"/>
+<img width="48" src="./assets/css3.svg" alt="CSS" style="display: inline"/>
+<img width="48" src="./assets/tfjs.svg" alt="Tensorflow.js" style="display: inline"/>
 
 ### GitHub Stats
 
