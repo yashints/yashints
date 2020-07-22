@@ -4,13 +4,13 @@ Yas is an almond croissant addict celeverly disguised as a web developer. He is 
 
 He is a fan of web technologies, having more than a decade of experience developing small to large scale applications. Interested to find out more? Follow him on 👇🏼
 
-<a href="https://twitter.com/yashints" target="_blank">
+<a href="https://twitter.com/yashints" target="_blank" title="Yashints on Twitter">
   <img width="48" src="https://raw.githubusercontent.com/yashints/yashints/master/assets/icons8-twitter.svg" alt="Twitter"/>
 </a>
-<a href="https://linkedin.com/in/yashints" target="_blank">
+<a href="https://linkedin.com/in/yashints" target="_blank" title="Yashints on LinkedIn">
   <img width="48" src="https://raw.githubusercontent.com/yashints/yashints/master/assets/icons8-linkedin.svg" alt="LinkedIn"/>
 </a>
-<a href="https://yashints.dev" target="_blank">
+<a href="https://yashints.dev" target="_blank" title="Yashints' website">
   <img width="48" src="https://raw.githubusercontent.com/yashints/yashints/master/assets/icons8-google-news.svg" alt="Website"/>
 </a>
 
