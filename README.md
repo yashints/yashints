@@ -1,4 +1,4 @@
-## Hi thanks for visiting Yas's GitHub page 👋
+## Hi there, Yas here 👋
 
 Yas is an almond croissant addict celeverly disguised as a web developer. He is a technical writer (distiguished author of the year on [Dev.to](https://dev.to/yashints)), international speaker, and a community advocate. By day he plays the role of a lead consultant at Telstra Purple, the biggest professional services in Australia, and by night he does nothing (someone needs to take care of the kids 😁).
 
@@ -15,11 +15,11 @@ He is a fan of web technologies, having more than a decade of experience develop
 </a>
 
 ### Top languages
-<img width="48" src="./assets/javascript.svg" alt="JavaScript" style="display: inline"/>
-<img width="48" src="./assets/typescript.svg" alt="TypeScript" style="display: inline"/>
-<img width="48" src="./assets/html.svg" alt="HTML" style="display: inline"/>
-<img width="48" src="./assets/css3.svg" alt="CSS" style="display: inline"/>
-<img width="48" src="./assets/tfjs.svg" alt="Tensorflow.js" style="display: inline"/>
+<code><img width="24" src="./assets/javascript.svg" alt="JavaScript"/></code>
+<code><img width="24" src="./assets/typescript.svg" alt="TypeScript"/></code>
+<code><img width="24" src="./assets/html.svg" alt="HTML" /></code>
+<code><img width="24" src="./assets/css3.svg" alt="CSS" /></code>
+<code><img width="24" src="./assets/tfjs.svg" alt="Tensorflow.js" /></code>
 
 ### GitHub Stats
 
