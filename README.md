@@ -19,7 +19,7 @@ He is a fan of web technologies, having more than a decade of experience develop
 <code><img width="24" src="./assets/typescript.svg" alt="TypeScript"/></code>
 <code><img width="24" src="./assets/html.svg" alt="HTML" /></code>
 <code><img width="24" src="./assets/css3.svg" alt="CSS" /></code>
-<code><img width="24" src="./assets/tfjs.svg" alt="Tensorflow.js" /></code>
+<code><img height="24" src="./assets/tfjs.svg" alt="Tensorflow.js" /></code>
 
 ### GitHub Stats
 
