@@ -20,6 +20,13 @@ He is a fan of web technologies, having more than a decade of experience develop
 <code><img width="24" src="./assets/html.svg" alt="HTML" /></code>
 <code><img width="24" src="./assets/css3.svg" alt="CSS" /></code>
 <code><img height="24" src="./assets/tfjs.svg" alt="Tensorflow.js" /></code>
+<code><img width="24" src="./assets/Angular.svg" alt="Angular"/></code>
+<code><img width="24" src="./assets/react.svg" alt="React" /></code>
+<code><img width="24" src="./assets/vuejs.png" alt="Vue" /></code>
+<code><img height="24" src="./assets/nodejs.png" alt="Node.js" /></code>
+<code><img height="24" src="./assets/webpack.png" alt="WebPack" /></code>
+<code><img height="24" src="./assets/rollup.png" alt="Rollup" /></code>
+<code><img height="24" src="./assets/parcel-og.png" alt="Paecel" /></code>
 
 ### GitHub Stats
 
