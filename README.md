@@ -5,7 +5,7 @@ Yas is an almond croissant addict celeverly disguised as a web developer. He is 
 He is a fan of web technologies, having more than a decade of experience developing small to large scale applications. Interested to find out more?
 
 <a href="https://twitter.com/yashints" target="_blank">
-  <img src="./assets/icons8-twitter.svg" alt="Twitter"/>
+  <img width="48" src="./assets/icons8-twitter.svg" alt="Twitter"/>
 </a>
 
 If you want to find out more about him:
